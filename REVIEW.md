@@ -1,26 +1,26 @@
 # Re:Coded Final Project Review Checklist
 
 **Name of project developer**: 
-
+  EkhlasRain.github.io
 **Link to project's GitHub repository**: 
-
+https://github.com/EkhlasRain/EkhlasRain.github.io
 ## Function
 ### AJAX Requests
 - [ ] All AJAX requests work properly.
 - [ ] Large images, videos, and other media — anything that would significantly slow down the user's browsing experience — are loaded via AJAX requests.
 
 ### JavaScript Style
-- [ ] Each page has its own JavaScript file that contains JavaScript written specifically for that page.
-- [ ] All functions have exactly **ONE** responsibility. No functions do more than one thing, like make an AJAX request *and* add the returned data to the DOM.
+- [Yes ] Each page has its own JavaScript file that contains JavaScript written specifically for that page.
+- [Yes ] All functions have exactly **ONE** responsibility. No functions do more than one thing, like make an AJAX request *and* add the returned data to the DOM.
   + **List any functions that have more than a single responsibility**: 
 
 ## Form
 ### Pages
 #### Homepage
-- [ ] Project has a homepage.
-- [ ] Homepage loads well-styled content even when JavaScript is disabled.
-- [ ] Homepage contains links to all other pages.
-- [ ] Homepage makes the website's purpose clear (who owns the site / what we can expect to find within).
+- [yes ] Project has a homepage.
+- [no ] Homepage loads well-styled content even when JavaScript is disabled.
+- [ yes] Homepage contains links to all other pages.
+- [ yes] Homepage makes the website's purpose clear (who owns the site / what we can expect to find within).
 
 #### About
 - [ ] Project has an About page.
